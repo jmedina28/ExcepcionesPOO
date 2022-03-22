@@ -18,7 +18,7 @@ def comprobacion(correo,tiempo,intentos):
         else:
             print("Una dirección de correo electrónico debe tener el formato xxx@xxx.xx")
             comprobacion(str(input("Introduzca una dirección de correo electrónico: ")),tiempo,intentos)
-    elif tiempo <=15:
+    elif tiempo < 15:
         tiempo += 5
         print("Para evitar ciberataques usted no dispone de más intentos en los próximos " + str(tiempo) + " segundos")
         time.sleep(tiempo) 
