@@ -6,4 +6,4 @@
 ---
 En este [repositorio](https://github.com/jmedina28/ExcepcionesPOO) quedan resueltos los ejercicios de excepciones para POO. Para llevar a cabo el proyecto me he documentado a través de la teoría que se encuentra en el campus virtual y de diversas fuentes que he encontrado.
 ***
-## Ejercicio 1: Palíndromo (Método de clase)<a name="id1"></a>
+## Ejercicio Excepciones
