@@ -8,7 +8,7 @@ En este [repositorio](https://github.com/jmedina28/ExcepcionesPOO) quedan resuel
 ***
 ## Ejercicio Excepciones
 
-En este ejercicio he creado un programa el cual detecta si un correo electrónico esta escrito correctamente. También he introducido un límite de intentos cada cierto tiempo cone l fin de evitar ciberataques.
+En este ejercicio he creado un programa el cual detecta si un correo electrónico esta escrito correctamente. También he introducido un límite de intentos cada cierto tiempo con el fin de evitar ciberataques.
 
 El código que he desarrollado es el siguiente:
 
